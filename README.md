@@ -23,22 +23,33 @@
   <img src="https://img.shields.io/badge/Tools-Visual_Studio_Code,Postman,Jira,Figma-blue">
   <!-- Add more technology badges as needed -->
 </p>
+- 🔭 I’m currently working on Binary_coders and Manual Testing project.
+
+- 🌱 I’m currently learning **Automation Testing with JAVA, UI/UX**
+
+- 👯 I’m looking to collaborate on **API Testing, Selenium, Automation Frameworks**
+
+- 👨‍💻 All of my projects are available at [https://github.com/subash188917](https://github.com/subash188917)
+
+- 💬 Ask me about **Manual testing,POSTMAN,Jira**
+- 📫 How to reach me **subashmadhavan7@gmail.com**
 
 <!-- GitHub Stats -->
-<h2 align="center">GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true" alt="GitHub Stats">
-</p>
+
+
+  ### :fire: My Stats : 
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=subash188917&theme=catppuccin-mocha)](https://git.io/streak-stats)
+
 
 <!-- Featured Projects -->
-<h2 align="center">Featured Projects</h2>
-<p align="center">
-  <a href="https://github.com/your_username/project1">
+<!--<h2 align="left">Featured Projects</h2>
+     <p align="center"> 
+     <a href="https://github.com/your_username/project1"> 
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=your_username&repo=project1" alt="Project 1">
   </a>
   <a href="https://github.com/your_username/project2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=your_username&repo=project2" alt="Project 2">
-  </a>
+  </a>-->
   <!-- Add more featured projects as needed -->
 </p>
 
