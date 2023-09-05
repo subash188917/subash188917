@@ -38,8 +38,7 @@
 
 
   ### :fire: My Stats : 
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=subash188917&theme=catppuccin-mocha)](https://git.io/streak-stats)
-
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=subash188917)](https://git.io/streak-stats)
 
 <!-- Featured Projects -->
 <!--<h2 align="left">Featured Projects</h2>
